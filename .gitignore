@@ -18,10 +18,11 @@ image/*.jpeg
 *.pdf
 *.pkl
 
-# 临时/测试脚本
+# 临时脚本
 untitled*.py
-test_*.py
 tmp*
+testdeepseek1.py
+test_inverse_height.py
 
 # 输入数据目录（体积大，不发布）
 gsvsegment/
