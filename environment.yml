@@ -1,0 +1,14 @@
+# 创建环境: conda env create -f environment.yml
+# 更新依赖: conda env update -f environment.yml --prune
+name: gujigaodu
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - shapely
+  - pyproj
+  - geopandas
+  - opencv
+  - openpyxl

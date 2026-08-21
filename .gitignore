@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+
+# 输出图片
+image/*.jpg
+image/*.png
+image/*.jpeg
+
+# 数据文件
+*.xlsx
+*.xls
+*.docx
+*.pdf
+*.pkl
+
+# 临时/测试脚本
+untitled*.py
+test_*.py
+tmp*
+
+# 输入数据目录（体积大，不发布）
+gsvsegment/
+seg/
+svseginfor/
+test_data/
+gsi/
+osm/
+oilver/
+
+# IDE
+.spyproject/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# 对比报告
+*_*.md

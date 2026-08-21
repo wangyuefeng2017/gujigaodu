@@ -1,0 +1,8 @@
+# 在 gujigaodu conda 环境中安装: pip install -r requirements.txt
+# 注意: GIS 库 (geopandas/shapely/pyproj) 建议用 conda-forge 安装, 这里仅作版本记录
+numpy>=2.0
+pandas>=2.0
+shapely>=2.0
+pyproj>=3.6
+geopandas>=1.0
+opencv-python>=4.8
