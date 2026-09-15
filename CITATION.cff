@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or the associated dataset, please cite the article and the Zenodo archives."
+title: "Building height estimation from Google Street View panoramas"
+type: software
+authors:
+  - family-names: "Wang"
+    given-names: "Yuefeng"
+  - family-names: "Liu"
+    given-names: "Yixuan"
+version: 1.0.0
+date-released: 2026-09-16
+license: MIT
+repository-code: "https://github.com/wangyuefeng2017/gujigaodu"
+url: "https://doi.org/10.5281/zenodo.[FILL-SOFTWARE-DOI]"
+keywords:
+  - building height
+  - street view
+  - panoramic image
+  - single-view metrology
+  - image rectification
+  - OpenStreetMap
+preferred-citation:
+  type: article
+  title: "[FILL: exact manuscript title]"
+  authors:
+    - family-names: "Wang"
+      given-names: "Yuefeng"
+    - family-names: "Liu"
+      given-names: "Yixuan"
+  journal: "GIScience & Remote Sensing"
+  year: 2026
+  doi: "[FILL after publication]"
