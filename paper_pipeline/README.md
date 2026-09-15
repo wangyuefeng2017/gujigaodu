@@ -42,4 +42,4 @@ The root `Main6_old.py` (iterative discrete search) and `Main6_new.py` (closed-f
 
 Inputs are paths configured inside each script (rectified panoramas, YOSO building masks, OSM building footprints); outputs are the per-viewpoint workbooks (`bldheightset21_rectified_panorama_Street View *.xlsx`) used to build the released dataset.
 
-All measurement outputs, the 505-viewpoint metadata index (panorama IDs, coordinates, dates), and the reference heights are archived in the companion Zenodo dataset: https://doi.org/[FILL-ZENODO-DATA-DOI] . The Google Street View panoramas themselves are © Google and are not redistributed; re-acquire them with the panorama IDs and `step1_download_panoramas.py`.
+All measurement outputs, the 505-viewpoint metadata index (panorama IDs, coordinates, dates), and the reference heights are archived in the companion Zenodo dataset: https://doi.org/10.5281/zenodo.22775001 . The Google Street View panoramas themselves are © Google and are not redistributed; re-acquire them with the panorama IDs and `step1_download_panoramas.py`.

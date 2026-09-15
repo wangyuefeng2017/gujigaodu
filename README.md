@@ -3,7 +3,7 @@
 Python code for estimating building heights from Google Street View panoramas and OpenStreetMap (OSM) building footprints, accompanying the manuscript submitted to ***GIScience & Remote Sensing*** (Taylor & Francis).
 
 - **Code (this repository):** https://github.com/wangyuefeng2017/gujigaodu — archived on Zenodo: https://doi.org/[FILL-ZENODO-SOFTWARE-DOI] (MIT License)
-- **Data (all measurement outputs, ablation results, reference heights, 505-viewpoint panorama-ID/coordinate index):** Zenodo, https://doi.org/[FILL-ZENODO-DATA-DOI] (CC BY 4.0)
+- **Data (all measurement outputs, ablation results, reference heights, 505-viewpoint panorama-ID/coordinate index):** Zenodo, https://doi.org/10.5281/zenodo.22775001 (CC BY 4.0)
 - **Images:** the Google Street View panoramas are © Google and cannot be redistributed under the Google Maps/Google Earth Terms of Service. They can be re-obtained with the released panorama IDs and `paper_pipeline/panorama_rectification/step1_download_panoramas.py`; all image-derived products can then be regenerated with the released pipeline.
 
 ## Repository layout
@@ -43,7 +43,7 @@ Code released by the authors is licensed under the MIT License (see [LICENSE](LI
 从街景全景图（Google Street View）和 OSM 建筑物 footprint 反演建筑物高度。配套论文投稿于 *GIScience & Remote Sensing*（Taylor & Francis）。
 
 - **代码（本仓库）：** https://github.com/wangyuefeng2017/gujigaodu ，Zenodo 归档：https://doi.org/[FILL-ZENODO-SOFTWARE-DOI]（MIT 许可）
-- **数据（全部测量结果、消融实验、参考高度、505 个视点的 panoId/坐标索引）：** Zenodo，https://doi.org/[FILL-ZENODO-DATA-DOI]（CC BY 4.0）
+- **数据（全部测量结果、消融实验、参考高度、505 个视点的 panoId/坐标索引）：** Zenodo，https://doi.org/10.5281/zenodo.22775001（CC BY 4.0）
 - **影像说明：** Google 街景全景图版权归 Google，依其服务条款不能再分发；可用公开的 panoId 清单与 `paper_pipeline/panorama_rectification/step1_download_panoramas.py` 重新获取，并用公开流程重新生成全部影像产物。
 
 ## 核心功能

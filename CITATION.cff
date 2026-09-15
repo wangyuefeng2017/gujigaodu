@@ -7,11 +7,18 @@ authors:
     given-names: "Yuefeng"
   - family-names: "Liu"
     given-names: "Yixuan"
+  - family-names: "Jiao"
+    given-names: "Wei"
+  - family-names: "Guo"
+    given-names: "Caiyun"
 version: 1.0.0
 date-released: 2026-09-16
 license: MIT
 repository-code: "https://github.com/wangyuefeng2017/gujigaodu"
-url: "https://doi.org/10.5281/zenodo.[FILL-SOFTWARE-DOI]"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22775001"
+    description: "Companion reproducibility dataset (measurements, metadata, reference data)."
 keywords:
   - building height
   - street view
@@ -27,6 +34,9 @@ preferred-citation:
       given-names: "Yuefeng"
     - family-names: "Liu"
       given-names: "Yixuan"
+    - family-names: "Jiao"
+      given-names: "Wei"
+    - family-names: "Guo"
+      given-names: "Caiyun"
   journal: "GIScience & Remote Sensing"
   year: 2026
-  doi: "[FILL after publication]"
